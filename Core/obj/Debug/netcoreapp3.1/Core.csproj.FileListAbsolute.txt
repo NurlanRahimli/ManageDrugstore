@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Lenovo\source\repos\ManageDrugStore\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
